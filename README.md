@@ -1,4 +1,4 @@
-# Projeto-Notebooks-Escola-Guilherme-
+# Projeto-Notebooks-Escola-Guilherme
 
 # Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola de Sabiaguaba
 
