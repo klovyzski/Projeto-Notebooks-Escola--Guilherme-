@@ -1,11 +1,11 @@
-# Projeto-Notebooks-Escola--Guilherme-
+# Projeto-Notebooks-Escola-Guilherme-
 
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola Modelo Educacional
+# Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola de Sabiaguaba
 
 ---
 
 ## 1. Resumo Executivo
-Este projeto propõe a substituição dos computadores de laboratório fixos da Escola Modelo Educacional por 30 notebooks modernos. O objetivo é solucionar a obsolescência da infraestrutura atual, promovendo maior flexibilidade, mobilidade e acesso à tecnologia para alunos e professores. A aquisição trará benefícios como a personalização do aprendizado, uso em diferentes ambientes de ensino e uma gestão de recursos mais eficiente e segura.
+Este projeto propõe a substituição dos computadores de laboratório fixos da Escola de Sabiaguaba por 30 notebooks modernos. O objetivo é solucionar a obsolescência da infraestrutura atual, promovendo maior flexibilidade, mobilidade e acesso à tecnologia para alunos e professores. A aquisição trará benefícios como a personalização do aprendizado, uso em diferentes ambientes de ensino e uma gestão de recursos mais eficiente e segura.
 
 ---
 
@@ -49,7 +49,7 @@ A escolha dos modelos considera o equilíbrio entre desempenho, mobilidade e dur
 Para mais detalhes sobre especificações de notebooks para ambientes educacionais, consulte estes links:
 
 * **Dell Technologies:** [Dell para Educação](https://www.dell.com/pt-br/blog/tags/dell-technologies/)
-* **Artigo sobre tecnologia educacional:** [Como escolher o notebook ideal para a sala de aula](https://www.dell.com/pt-br/lp/notebooks-para-estudar)
+* **Artigo sobre tecnologia educacional:** [Notebooks para Estudantes](https://www.dell.com/pt-br/lp/notebooks-para-estudar)
 
 ---
 
