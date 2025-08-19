@@ -42,7 +42,7 @@ A escolha dos modelos considera o equilíbrio entre desempenho, mobilidade e dur
 | Conectividade | Wi-Fi 6, Bluetooth 5.0 | Wi-Fi 6E, Bluetooth 5.2 |
 | Portas | 2x USB 3.0, 1x HDMI | 1x Thunderbolt 4, 2x USB 3.0, 1x HDMI |
 
-![Imagem de um notebook fino e moderno]([https://intelcorp.scene7.com/is/image/intelcorp/laptop-marquee-16x9:1920-1080?wid=480&hei=270&fmt=webp-alpha])
+![Imagem de um notebook fino e moderno](https://m.media-amazon.com/images/I/81m5EhS7GaL._AC_SX679_.jpg)
 *Notebook Dell XPS 15, um exemplo de design fino e leve que atende às especificações desejadas para o projeto.*
 
 Para mais detalhes sobre especificações de notebooks para ambientes educacionais, consulte estes links:
