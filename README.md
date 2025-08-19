@@ -43,6 +43,7 @@ A escolha dos modelos considera o equilíbrio entre desempenho, mobilidade e dur
 | Portas | 2x USB 3.0, 1x HDMI | 1x Thunderbolt 4, 2x USB 3.0, 1x HDMI |
 
 ![Imagem de um notebook fino e moderno](https://m.media-amazon.com/images/I/81m5EhS7GaL._AC_SX679_.jpg)
+
 *Notebook Dell XPS 15, um exemplo de design fino e leve que atende às especificações desejadas para o projeto.*
 
 Para mais detalhes sobre especificações de notebooks para ambientes educacionais, consulte estes links:
