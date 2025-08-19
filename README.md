@@ -49,7 +49,7 @@ A escolha dos modelos considera o equilíbrio entre desempenho, mobilidade e dur
 Para mais detalhes sobre especificações de notebooks para ambientes educacionais, consulte estes links:
 
 * **Dell Technologies:** [Dell para Educação](https://www.dell.com/pt-br/blog/tags/dell-technologies/)
-* **Artigo sobre tecnologia educacional:** [Artigo sobre tecnologia educacional:](https://canaltech.com.br/escolha-o-notebook-ideal-para-o-ambiente-educacional/)
+* **Artigo sobre tecnologia educacional:** [Como escolher o notebook ideal para a sala de aula](https://www.dell.com/pt-br/lp/notebooks-para-estudar)
 
 ---
 
